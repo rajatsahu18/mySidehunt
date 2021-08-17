@@ -1,0 +1,24 @@
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 75%;
+    margin: 0 0 0 12%;
+}
+
+/* css for navbar */
+
+.navBar {
+    border: 1px solid rgb(69, 241, 69);
+    background-color:  rgb(69, 241, 69);
+    padding: 1%;
+    margin-bottom: 2%;
+}
+
+.navLink {
+    margin: 15px;
+    color: rgb(2, 43, 2);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* css for navbar */
