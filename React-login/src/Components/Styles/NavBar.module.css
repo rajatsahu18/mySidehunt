@@ -1,0 +1,23 @@
+.navbar {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    background-color: #FC3460;
+    color: black;   
+}
+
+.navlink {
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.settings {
+    margin-left: 45%;
+}
+
+.home {
+    margin-left: 40%;
+}
